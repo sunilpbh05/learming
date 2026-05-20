@@ -1,0 +1,19 @@
+body {
+    background-color: #f4f4f4;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.custom-color {
+    color: crimson;
+    font-weight: bold;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
